@@ -16,7 +16,7 @@ Here's a summary of the improvements made from my "filecrypt"
 
 Overall, these improvements enhance the security, robustness, and usability of the encryption and decryption process.
 
-Usage: `filecrypt [option] /path/to/anyfile`
+Usage: `filecrypt2 [option] /path/to/anyfile`
 
 Options:
 - `-e,--encrypt`
